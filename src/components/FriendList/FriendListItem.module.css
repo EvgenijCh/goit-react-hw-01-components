@@ -1,0 +1,30 @@
+.item {
+    display: flex;
+    width: 200px;
+    margin: 0 auto;
+    border: 1px solid rgb(232, 236, 242);
+    margin-bottom: 12px;
+    box-shadow: 1px 0px 3px gray;
+}
+    .online {
+    width: 15px;
+    height: 15px;
+    margin-top: 10%;
+    margin-left: 15px;
+    border-radius: 20px;
+    background-color: green;
+    }
+    .offline {
+    width: 15px;
+    height: 15px;
+    margin-top: 10%;
+    margin-left: 15px;
+    border-radius: 20px;
+    background-color:red;
+}
+.avatar {
+    padding: 5px 0px 5px 30px;
+}
+.name {
+    font-size: 1.2rem;
+}

@@ -1,0 +1,22 @@
+.profile {
+  color: #8c9aa8;
+  max-width: 340px;
+  text-align: center;
+  margin: 15px;
+  box-shadow: rgb(219, 214, 214);
+  margin: 0 auto;
+}
+.description {
+  border: 1px solid rgb(232, 236, 242);
+
+}
+.avatar {
+  height: 150px;
+  margin: 46px 0px 16px;
+  border-radius: 100px;
+}
+.name {
+  color: black;
+  font-size: 2rem;
+  font-weight: 600;
+}

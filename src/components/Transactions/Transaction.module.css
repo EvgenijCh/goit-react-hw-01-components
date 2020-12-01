@@ -1,0 +1,26 @@
+.transactionHistory {
+    text-align: center;
+    width: 500px;
+    margin: 0 auto;
+    box-shadow: 0 3px 4px 0 #e8e8e8;
+    
+}
+.thead {
+    background-color: #48d1cc;
+    color:#ffffff;
+    text-transform: uppercase;
+    font-family: sans-serif;
+    
+}
+
+.tbody {
+    color:gray;
+      }
+.grey {
+    height: 40px;
+    background-color:#ecf1f3 ;
+}
+.white {
+height: 40px;
+background-color: #fafafa;
+}  
